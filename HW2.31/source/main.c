@@ -3,14 +3,13 @@
 int main()
 {
 	int a,b,c,d,M,m = 0;
-	printf("input 3 numbers:");
-	scanf_s("%d %d %d", &a, &b, &c);
-	//printf("%d\n",a);
-	//printf("%d\n",b);
-	//printf("%d\n",c);
-	M = a; m = a;
-	if (b > M) M=b;if(c > M) M=c;
-	if (b < m) m=b;if(c < m) m=c;
-	printf("largest = %d,smallest = %d",M,m);
+	printf(" number	square	cube\n");
+	for (int i = 1; i <= 10; i++)
+	{
+		a = i;
+		b = a * a; c = a * a * a;
+		printf(" %d	%d	%d\n", a, b, c);
+	}
+	system("pause");
 	return 0;
 }

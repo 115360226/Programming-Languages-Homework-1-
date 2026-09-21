@@ -11,6 +11,7 @@ int main()
 	M = a; m = a;
 	if (b > M) M=b;if(c > M) M=c;
 	if (b < m) m=b;if(c < m) m=c;
-	printf("largest = %d,smallest = %d",M,m);
+	printf("largest = %d,smallest = %d\n",M,m);
+	system("pause");
 	return 0;
 }

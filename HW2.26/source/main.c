@@ -10,7 +10,8 @@ int main()
 	//printf("%d\n",c);
 	if (a % b == 0) c = 1; 
 	else  c = 0;
-	if(c==1) printf("%d is %d's multpie", a, b);
-	else    printf("%d is not %d's multpie", a, b);
+	if(c==1) printf("%d is a multiple of %d\n", a, b);
+	else    printf("%d is not a multiple of %d\n", a, b);
+	system("pause");
 	return 0;
 }

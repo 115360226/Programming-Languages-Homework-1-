@@ -8,7 +8,8 @@ int main()
 	//printf("%d\n",a);
 	//printf("%d\n",b);
 	(b=(a % 2 == 0 )?1:0);
-	if (b == 1) printf("%d is a even",a);
-	else if (b == 0) printf("%d is a odd",a);
+	if (b == 1) printf("%d is a even\n",a);
+	else if (b == 0) printf("%d is a odd\n",a);
+	system("pause");
 	return 0;
 }

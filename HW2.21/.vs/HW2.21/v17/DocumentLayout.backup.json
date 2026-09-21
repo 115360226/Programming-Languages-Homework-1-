@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mhkkx\\Desktop\\Homework HW1\\HW2.21\\HW2.21\\",
+  "WorkspaceRootPath": "C:\\Users\\mhkkx\\Desktop\\Homework HW1\\HW2.21\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{611E8309-FF39-412F-8454-F95934DE73CF}|HW2.21\\HW2.21.vcxproj|C:\\Users\\mhkkx\\Desktop\\Homework HW1\\HW2.21\\HW2.21\\HW2.21\\include\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{611E8309-FF39-412F-8454-F95934DE73CF}|HW2.21\\HW2.21.vcxproj|solutionrelative:HW2.21\\include\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{611E8309-FF39-412F-8454-F95934DE73CF}|HW2.21\\HW2.21.vcxproj|C:\\Users\\mhkkx\\Desktop\\Homework HW1\\HW2.21\\HW2.21\\source\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{611E8309-FF39-412F-8454-F95934DE73CF}|HW2.21\\HW2.21.vcxproj|solutionrelative:HW2.21\\source\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{611E8309-FF39-412F-8454-F95934DE73CF}|HW2.21\\HW2.21.vcxproj|C:\\Users\\mhkkx\\Desktop\\Homework HW1\\HW2.21\\HW2.21\\HW2.21\\source\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{611E8309-FF39-412F-8454-F95934DE73CF}|HW2.21\\HW2.21.vcxproj|solutionrelative:HW2.21\\source\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{611E8309-FF39-412F-8454-F95934DE73CF}|HW2.21\\HW2.21.vcxproj|C:\\Users\\mhkkx\\Desktop\\Homework HW1\\HW2.21\\HW2.21\\include\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{611E8309-FF39-412F-8454-F95934DE73CF}|HW2.21\\HW2.21.vcxproj|solutionrelative:HW2.21\\include\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Header.h",
-              "DocumentMoniker": "C:\\Users\\mhkkx\\Desktop\\Homework HW1\\HW2.21\\HW2.21\\HW2.21\\include\\Header.h",
-              "RelativeDocumentMoniker": "HW2.21\\include\\Header.h",
-              "ToolTip": "C:\\Users\\mhkkx\\Desktop\\Homework HW1\\HW2.21\\HW2.21\\HW2.21\\include\\Header.h",
-              "RelativeToolTip": "HW2.21\\include\\Header.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-09-19T04:46:02.248Z",
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\mhkkx\\Desktop\\Homework HW1\\HW2.21\\HW2.21\\source\\main.c",
+              "RelativeDocumentMoniker": "HW2.21\\source\\main.c",
+              "ToolTip": "C:\\Users\\mhkkx\\Desktop\\Homework HW1\\HW2.21\\HW2.21\\source\\main.c",
+              "RelativeToolTip": "HW2.21\\source\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-19T04:55:34.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\mhkkx\\Desktop\\Homework HW1\\HW2.21\\HW2.21\\HW2.21\\source\\Source.cpp",
-              "RelativeDocumentMoniker": "HW2.21\\source\\Source.cpp",
-              "ToolTip": "C:\\Users\\mhkkx\\Desktop\\Homework HW1\\HW2.21\\HW2.21\\HW2.21\\source\\Source.cpp",
-              "RelativeToolTip": "HW2.21\\source\\Source.cpp",
+              "Title": "Header.h",
+              "DocumentMoniker": "C:\\Users\\mhkkx\\Desktop\\Homework HW1\\HW2.21\\HW2.21\\include\\Header.h",
+              "RelativeDocumentMoniker": "HW2.21\\include\\Header.h",
+              "ToolTip": "C:\\Users\\mhkkx\\Desktop\\Homework HW1\\HW2.21\\HW2.21\\include\\Header.h",
+              "RelativeToolTip": "HW2.21\\include\\Header.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-19T04:45:35.454Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-19T04:46:02.248Z",
+              "EditorCaption": ""
             }
           ]
         }

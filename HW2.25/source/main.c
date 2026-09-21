@@ -19,6 +19,6 @@ int main()
     printf("D       D\n");
     printf(" D     D \n");
     printf("  DDDDD  \n");
-
+    system("pause");
     return 0;
 }
